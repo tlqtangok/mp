@@ -1,0 +1,5 @@
+<text>{{id_text_1}}</text>
+
+<button bindtap="id_fun_0"> {{id_text_0}} </button>
+
+
